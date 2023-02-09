@@ -1,16 +1,17 @@
-### Hi there 👋
+### Olá! Eu sou a Malu Rosestolato 😜
+
+<div> 
+  <img align="right" alt="Malu-pic" height="240" width="240" src="https://user-images.githubusercontent.com/85000104/217681406-d8a87fb6-3fed-463c-a0c0-d142c84d0280.gif">
+  
+  Atualmente estudando Python.
+</div> 
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=lmarosestolato&show_icons=true&theme=tokyonight&align=center)
+ 
 
 <!--
-**lmarosestolato/lmarosestolato** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Linguagens mais usadas:
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lmarosestolato&layout=compact)](https://github.com/lmarosestolato/github-readme-stats)
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+![snake gif](https://github.com/lmarosestolato/lmarosestolato/blob/output/github-contribution-grid-snake.svg)
 -->
