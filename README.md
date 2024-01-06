@@ -2,7 +2,7 @@
 
 <div style="display: inline_block"><br>
   <img align="left" alt="Malu-pic" height="180" width="180" src="https://user-images.githubusercontent.com/85000104/217681406-d8a87fb6-3fed-463c-a0c0-d142c84d0280.gif"> 
-  <img align="left" alt="Img-trans" height="180" width="40" src="https://github.com/lmarosestolato/lmarosestolato/blob/main/ImagemTransparente.png">
+  <img align="left" alt="Img-trans" height="180" width="30" src="https://github.com/lmarosestolato/lmarosestolato/blob/main/ImagemTransparente.png">
 </div>
 
 
@@ -21,8 +21,9 @@
   <img align="center" alt="Malu-C" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/c/c-original.svg?short_path=d0841f2">
   <img align="center" alt="Malu-C++" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/cplusplus/cplusplus-original.svg">
 </div>
-<br>
 
+<br>
+<br>
 <br>
 
 <!-- ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=lmarosestolato&show_icons=true&theme=tokyonight&align=center) Turquoise,DarkCyan,CadetBlue-->
